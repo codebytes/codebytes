@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Profile!
 
-I'm Chris Ayers (he/him), a Senior Site Reliability Engineer at Microsoft. I'm an international speaker and organizer for DevOps Days Tampa Bay. In my spare time, I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts.
+I'm Chris Ayers (he/him), a Senior Software Engineer at Microsoft. I'm an international speaker and organizer for DevOps Days Tampa Bay. In my spare time, I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts.
 
 I blog at: [https://chris-ayers.com/](https://chris-ayers.com/)
 You can see my sessions at: [https://sessionize.com/ChrisAyers](https://sessionize.com/ChrisAyers).
