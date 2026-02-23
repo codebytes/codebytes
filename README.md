@@ -53,5 +53,10 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aspire CLI Part 3 - MCP for AI Coding Agents](https://chris-ayers.com/posts/aspire-cli-part-3-mcp/)
+- [Aspire CLI Part 2 - Deployment and Pipelines](https://chris-ayers.com/posts/aspire-cli-part-2/)
+- [Migrating from Jekyll to Hugo Part 3: Deployment and Lessons Learned](https://chris-ayers.com/posts/migrating-from-jekyll-to-hugo-part-3-deployment-and-lessons-learned/)
+- [Migrating from Jekyll to Hugo Part 2: Content Migration](https://chris-ayers.com/posts/migrating-from-jekyll-to-hugo-part-2-content-migration/)
+- [Migrating from Jekyll to Hugo Part 1: Why I Made the Switch](https://chris-ayers.com/posts/migrating-from-jekyll-to-hugo-part-1-why-i-made-the-switch/)
 <!-- BLOG-POST-LIST:END -->
 
