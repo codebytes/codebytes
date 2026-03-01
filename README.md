@@ -53,10 +53,10 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MITRE ATT&amp;CK for Developers: Beyond OWASP](https://chris-ayers.com/posts/mitre-attack-framework/)
+- [NDC Security 2026](https://chris-ayers.com/posts/ndc-security-2026/)
 - [Promoted to Principal Software Engineer at Microsoft](https://chris-ayers.com/posts/promoted-to-principal-swe/)
 - [Aspire CLI Part 3 - MCP for AI Coding Agents](https://chris-ayers.com/posts/aspire-cli-part-3-mcp/)
 - [Aspire CLI Part 2 - Deployment and Pipelines](https://chris-ayers.com/posts/aspire-cli-part-2/)
-- [Migrating from Jekyll to Hugo Part 3: Deployment and Lessons Learned](https://chris-ayers.com/posts/migrating-from-jekyll-to-hugo-part-3-deployment-and-lessons-learned/)
-- [Migrating from Jekyll to Hugo Part 2: Content Migration](https://chris-ayers.com/posts/migrating-from-jekyll-to-hugo-part-2-content-migration/)
 <!-- BLOG-POST-LIST:END -->
 
