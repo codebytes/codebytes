@@ -53,10 +53,10 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Certification Renewals - March 2026](https://chris-ayers.com/posts/certification-renewals-march-2026/)
 - [MITRE ATT&amp;CK for Developers: Beyond OWASP](https://chris-ayers.com/posts/mitre-attack-framework/)
 - [NDC Security 2026](https://chris-ayers.com/posts/ndc-security-2026/)
 - [Promoted to Principal Software Engineer at Microsoft](https://chris-ayers.com/posts/promoted-to-principal-swe/)
 - [Aspire CLI Part 3 - MCP for AI Coding Agents](https://chris-ayers.com/posts/aspire-cli-part-3-mcp/)
-- [Aspire CLI Part 2 - Deployment and Pipelines](https://chris-ayers.com/posts/aspire-cli-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
