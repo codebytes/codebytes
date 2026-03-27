@@ -54,9 +54,9 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 
 <!-- BLOG-POST-LIST:START -->
 - [Agent Skills, Plugins and Marketplace: The Complete Guide](https://chris-ayers.com/posts/agent-skills-plugins-marketplace/)
-- [Agent Skills, Plugins and Marketplace: The Complete Guide](https://chris-ayers.com/posts/agent-skills-plugins-marketplace/)
 - [Microsoft Certification Renewals - March 2026](https://chris-ayers.com/posts/certification-renewals-march-2026/)
 - [MITRE ATT&amp;CK for Developers: Beyond OWASP](https://chris-ayers.com/posts/mitre-attack-framework/)
 - [NDC Security 2026](https://chris-ayers.com/posts/ndc-security-2026/)
+- [Promoted to Principal Software Engineer at Microsoft](https://chris-ayers.com/posts/promoted-to-principal-swe/)
 <!-- BLOG-POST-LIST:END -->
 
