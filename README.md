@@ -17,26 +17,32 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 
 ## 🎤 Talk Repos
 
-| Talk | Repo |
-|------|------|
-| Aspiring .NET with Azure Open AI | [build-with-aspire](https://github.com/codebytes/build-with-aspire) |
-| Building in the Cloud with Bicep | [build-with-bicep](https://github.com/codebytes/build-with-bicep) |
-| Continuous Load Testing with GitHub Actions | [load-testing](https://github.com/codebytes/load-testing) |
-| Ensuring Azure Resiliency | [azure-resiliency](https://github.com/codebytes/azure-resiliency) |
-| Feature Flags: The Art of the IF and Deployment | [feature-flags](https://github.com/codebytes/feature-flags) |
-| From Zero to End-to-End Tests: A Beginner's Guide to Playwright | [testing-with-playwright](https://github.com/codebytes/testing-with-playwright) |
-| Guardians of the Containers | [container-security](https://github.com/codebytes/container-security) |
-| Kubernetes Resiliency | [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency) |
-| MITRE ATT&CK for Developers — Beyond OWASP | [mitre-attack-for-devs](https://github.com/codebytes/mitre-attack-for-devs) |
-| Modern .NET Configuration Practices | [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth) |
-| .NET in a Box: Containerizing .NET Applications | [containerizing-dotnet](https://github.com/codebytes/containerizing-dotnet) |
-| Aspire 13: One AppHost, Many Languages | [aspire-polyglot](https://github.com/codebytes/aspire-polyglot) |
-| Real World CI/CD with GitHub Actions | [github-actions-demos](https://github.com/codebytes/github-actions-demos) |
-| Refactoring Your Technical Identity | [refactoring-your-identity](https://github.com/codebytes/refactoring-your-identity) |
-| Securely Deploying Infrastructure as Code | [secure-terraform-on-azure](https://github.com/codebytes/secure-terraform-on-azure) |
-| SRE, DevOps, and Platform Engineering | [sre-devops-platform-eng](https://github.com/codebytes/sre-devops-platform-eng) |
-| The Power of Dev Containers and GitHub Codespaces | [dev-containers](https://github.com/codebytes/dev-containers) |
-| The Well-Architected Architect | [the-well-architected-architect](https://github.com/codebytes/the-well-architected-architect) |
+| Talk | Slides | Repo | PDF |
+|------|--------|------|-----|
+| Agent Skills, Plugins & Marketplace | [Slides](https://chris-ayers.com/agent-skills/) | [agent-skills](https://github.com/codebytes/agent-skills) | [PDF](https://chris-ayers.com/agent-skills/Slides.pdf) |
+| Aspiring .NET with Azure Open AI | [Slides](https://chris-ayers.com/build-with-aspire/) | [build-with-aspire](https://github.com/codebytes/build-with-aspire) | [PDF](https://chris-ayers.com/build-with-aspire/Slides.pdf) |
+| Building in the Cloud with Bicep | [Slides](https://chris-ayers.com/build-with-bicep/) | [build-with-bicep](https://github.com/codebytes/build-with-bicep) | [PDF](https://chris-ayers.com/build-with-bicep/Slides.pdf) |
+| Continuous Load Testing with GitHub Actions | [Slides](https://chris-ayers.com/load-testing/) | [load-testing](https://github.com/codebytes/load-testing) | — |
+| Ensuring Azure Resiliency | [Slides](https://chris-ayers.com/azure-resiliency/) | [azure-resiliency](https://github.com/codebytes/azure-resiliency) | [PDF](https://chris-ayers.com/azure-resiliency/Slides.pdf) |
+| Feature Flags: The Art of the IF and Deployment | [Slides](https://chris-ayers.com/feature-flags/) | [feature-flags](https://github.com/codebytes/feature-flags) | [PDF](https://chris-ayers.com/feature-flags/Slides.pdf) |
+| From Zero to End-to-End Tests: A Beginner's Guide to Playwright | [Slides](https://chris-ayers.com/testing-with-playwright/) | [testing-with-playwright](https://github.com/codebytes/testing-with-playwright) | — |
+| Git Good with Advanced Git | — | [gitgood](https://github.com/codebytes/gitgood) | — |
+| Guardians of the Containers | [Slides](https://chris-ayers.com/container-security/) | [container-security](https://github.com/codebytes/container-security) | [PDF](https://chris-ayers.com/container-security/Slides.pdf) |
+| Kubernetes Resiliency | [Slides](https://chris-ayers.com/kubernetes-resiliency/) | [kubernetes-resiliency](https://github.com/codebytes/kubernetes-resiliency) | — |
+| MITRE ATT&CK for Developers — Beyond OWASP | [Slides](https://chris-ayers.com/mitre-attack-for-devs/) | [mitre-attack-for-devs](https://github.com/codebytes/mitre-attack-for-devs) | [PDF](https://chris-ayers.com/mitre-attack-for-devs/Slides.pdf) |
+| Modern .NET Configuration Practices | [Slides](https://chris-ayers.com/dotnet-configuration-in-depth/) | [dotnet-configuration-in-depth](https://github.com/codebytes/dotnet-configuration-in-depth) | [PDF](https://chris-ayers.com/dotnet-configuration-in-depth/Slides.pdf) |
+| Monitoring with Azure Application Insights | [Slides](https://chris-ayers.com/app-insights/) | [app-insights](https://github.com/codebytes/app-insights) | [PDF](https://chris-ayers.com/app-insights/Slides.pdf) |
+| .NET in a Box: Containerizing .NET Applications | [Slides](https://chris-ayers.com/containerizing-dotnet/) | [containerizing-dotnet](https://github.com/codebytes/containerizing-dotnet) | [PDF](https://chris-ayers.com/containerizing-dotnet/Slides.pdf) |
+| Aspire 13: One AppHost, Many Languages | [Slides](https://chris-ayers.com/aspire-polyglot/) | [aspire-polyglot](https://github.com/codebytes/aspire-polyglot) | [PDF](https://chris-ayers.com/aspire-polyglot/Slides.pdf) |
+| Real World CI/CD with GitHub Actions | [Slides](https://chris-ayers.com/github-actions-demos/) | [github-actions-demos](https://github.com/codebytes/github-actions-demos) | [PDF](https://chris-ayers.com/github-actions-demos/Slides.pdf) |
+| Refactoring Your Technical Identity | [Slides](https://chris-ayers.com/refactoring-your-identity/) | [refactoring-your-identity](https://github.com/codebytes/refactoring-your-identity) | [PDF](https://chris-ayers.com/refactoring-your-identity/Slides.pdf) |
+| Securely Deploying Infrastructure as Code | [Slides](https://chris-ayers.com/secure-terraform-on-azure/) | [secure-terraform-on-azure](https://github.com/codebytes/secure-terraform-on-azure) | — |
+| SRE, DevOps, and Platform Engineering | [Slides](https://chris-ayers.com/sre-devops-platform-eng/) | [sre-devops-platform-eng](https://github.com/codebytes/sre-devops-platform-eng) | — |
+| The Power of Dev Containers and GitHub Codespaces | [Slides](https://chris-ayers.com/dev-containers/) | [dev-containers](https://github.com/codebytes/dev-containers) | [PDF](https://chris-ayers.com/dev-containers/Slides.pdf) |
+| The Well-Architected Architect | [Slides](https://chris-ayers.com/the-well-architected-architect/) | [the-well-architected-architect](https://github.com/codebytes/the-well-architected-architect) | [PDF](https://chris-ayers.com/the-well-architected-architect/Slides.pdf) |
+| Your Path Into Tech | [Slides](https://chris-ayers.com/tech-career-toolkit/) | [tech-career-toolkit](https://github.com/codebytes/tech-career-toolkit) | [PDF](https://chris-ayers.com/tech-career-toolkit/Slides.pdf) |
+
+— = no published link available.
 
 ### 📐 Templates
 
