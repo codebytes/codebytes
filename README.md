@@ -2,7 +2,7 @@
 
 # Chris Ayers
 
-**Principal Software Engineer @ Microsoft** | Azure Reliability | 🎤 International Speaker | DevOps Days Tampa Bay Organizer
+**Principal Software Engineer @ Microsoft** | Azure EngOps AzRel | 🎤 International Speaker | DevOps Days Tampa Bay Organizer
 
 I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts.
 
@@ -41,8 +41,6 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 | The Well-Architected Architect | [Slides](https://chris-ayers.com/the-well-architected-architect/) | [the-well-architected-architect](https://github.com/codebytes/the-well-architected-architect) | [PDF](https://chris-ayers.com/the-well-architected-architect/Slides.pdf) |
 | Your Path Into Tech | [Slides](https://chris-ayers.com/tech-career-toolkit/) | [tech-career-toolkit](https://github.com/codebytes/tech-career-toolkit) | [PDF](https://chris-ayers.com/tech-career-toolkit/Slides.pdf) |
 
-— = no published link available.
-
 ### 📐 Templates
 
 | Name | Repo |
@@ -64,4 +62,3 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 - [MITRE ATT&amp;CK for Developers: Beyond OWASP](https://chris-ayers.com/posts/mitre-attack-framework/)
 - [NDC Security 2026](https://chris-ayers.com/posts/ndc-security-2026/)
 <!-- BLOG-POST-LIST:END -->
-
