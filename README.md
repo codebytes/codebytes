@@ -57,9 +57,9 @@ I enjoy tinkering with new tech, contributing to open-source projects, and shari
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Put the Debugging Tools Next to the App](https://chris-ayers.com/posts/aspire-field-notes-terminals-and-repls/)
 - [A Polyglot App Is More Than a Process List](https://chris-ayers.com/posts/aspire-field-notes-model-the-whole-app/)
 - [Stop Losing the Bug When You Restart Aspire](https://chris-ayers.com/posts/aspire-field-notes-keep-the-failing-run/)
 - [Automate Your Windows Dev Machine with WinGet DSC](https://chris-ayers.com/posts/winget-dsc-windows-setup/)
 - [Agent Skills, Plugins and Marketplace: The Complete Guide](https://chris-ayers.com/posts/agent-skills-plugins-marketplace/)
-- [Microsoft Certification Renewals - March 2026](https://chris-ayers.com/posts/certification-renewals-march-2026/)
 <!-- BLOG-POST-LIST:END -->
